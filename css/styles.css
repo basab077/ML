@@ -1,0 +1,31 @@
+#features{
+    padding:7% 15%;
+    text-align: center;
+}
+
+.feature-box{
+    
+    padding: 3%;
+    text-align: center;
+}
+
+.feature-img{
+    width: 20%;
+    text-align: center;
+}
+
+#testimonials{
+    padding:3% 5%;
+    text-align: center;
+    
+
+}
+
+.card{
+    margin: 3%;
+}
+
+#press{
+    text-align: center;
+    padding: 7% 15%;
+}
